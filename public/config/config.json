@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xffbe2083319718cf9fd8d5bb8a8b3ff1300f95cd",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xffbe2083319718cf9fd8d5bb8a8b3ff1300f95cd",
+  "NETWORK": {
+    "NAME": "ethereum",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "SAVE UKRAINE NFT",
+  "SYMBOL": "SUNFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/testipfs-1jgfewat6k",
+  "SHOW_BACKGROUND": true
+}
